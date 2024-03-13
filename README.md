@@ -1,5 +1,6 @@
 # MSCI 546 - Final Project 
 Advanced Machine Learning
+
 By: Hassan Rawasia, Kanishk Dutta, Kesojan Premakumar, Sarankan Thirunavukkarasu
 
 ## Introduction
