@@ -3,9 +3,10 @@ Advanced Machine Learning
 By: Hassan Rawasia, Kanishk Dutta, Kesojan Premakumar, Sarankan Thirunavukkarasu
 
 ## Introduction
+x
 
 ## Problem Statement
-GreenerThreads aims to increase awareness and transparency within the fashion industry, enabling consumers to make informed decisions and avoid supporting products associated with unethical practices.
+x
 
 ## Data
 Talk about how we collected data for this project.
