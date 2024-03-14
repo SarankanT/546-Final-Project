@@ -17,7 +17,8 @@ We analyzed 5 features from the dataset to configure the binary classification m
 - Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 ## Models & Neural Network
-The .ipynb file includes six models as outlined in the MSCI 546 Final Project instructions. The 6 models are:
+The .ipynb file includes six models as outlined in the MSCI 546 Final Project instructions. 
+The 6 models are:
 - Decision Tree Classifier (Baseline Model)
 - Boosted Decision Tree Classifier
 - Random Forest Classifier
